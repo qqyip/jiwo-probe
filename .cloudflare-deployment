@@ -1,0 +1,4 @@
+worker=mmwx-probe
+branch=main
+build=npm run build
+deploy=./scripts/deploy.sh
